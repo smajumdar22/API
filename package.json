@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "This is the Data Selfie App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smajumdar22/API.git"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "Shubham (Reference Coding Train)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smajumdar22/API/issues"
+  },
+  "homepage": "https://github.com/smajumdar22/API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
